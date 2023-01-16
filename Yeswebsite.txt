@@ -1,0 +1,4 @@
+https://jsonplaceholder.typicode.com
+https://docs.python.org/3/library
+https://github.com
+https://www.youtube.com
