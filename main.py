@@ -1,8 +1,6 @@
 '''
 create a list of websites
-
 create a list of websites that DIDn't open properly (404)
-
 save all these not opening websites into a file
 save all  websites that are opening into another file
 '''

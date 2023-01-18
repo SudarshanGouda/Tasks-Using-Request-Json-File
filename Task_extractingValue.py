@@ -15,6 +15,7 @@ else:  # If try works properly it comes to else
                 results[entry['userId']]+=1
             except KeyError:
                 results[entry['userId']] = 1
+
 print(results)
 print(results.items())
 print(results.values())
